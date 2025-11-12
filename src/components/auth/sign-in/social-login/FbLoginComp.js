@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Stack, Typography, useMediaQuery, useTheme } from "@mui/material";
-import FacebookLogin from "react-facebook-login/dist/facebook-login-render-props";
-//import FacebookLogin from "@greatsumini/react-facebook-login";
+//import FacebookLogin from "react-facebook-login/dist/facebook-login-render-props";
+import FacebookLogin from "@greatsumini/react-facebook-login";
 import { toast } from "react-hot-toast";
 import { useTranslation } from "react-i18next";
 import { useDispatch, useSelector } from "react-redux";
