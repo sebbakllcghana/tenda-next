@@ -32,18 +32,18 @@ const background = {
 const divider = "#E6E8F0";
 
 const primary = {
-	main: "#039D55",
-	deep: "#026034",
-	light: "#EBFDF2",
-	dark: "#1c6641",
-	semiLight: "#E4FFF3",
+	main: "#FF6600",
+	deep: "#CC5200",
+	light: "#FFE5D1",
+	dark: "#993D00",
+	semiLight: "#FFF1E5",
 	contrastText: "#FFFFFF",
-	customType1: "#0DCB72",
-	customType2: "#3BB77E",
-	customType3: "#29CE00",
+	customType1: "#FF7A26",
+	customType2: "#FF8C33",
+	customType3: "#FF7800",
 	overLay: "#000000",
-	lite: "rgba(3, 157, 85, 0.1)",
-	icon: "#039D55",
+	lite: "rgba(255, 102, 0, 0.1)",
+	icon: "#FF6600",
 };
 
 const moduleTheme = {
