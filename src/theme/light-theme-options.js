@@ -45,6 +45,7 @@ const primary = {
 	lite: "rgba(3, 157, 85, 0.1)",
 	icon: "#039D55",
 };
+
 const moduleTheme = {
 	pharmacy: "#039D55",
 	ecommerce: "#039D55",
