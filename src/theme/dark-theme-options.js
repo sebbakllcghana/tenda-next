@@ -40,17 +40,18 @@ const foodCardColor = neutral[800];
 const roundStackOne = "rgba(255, 255, 255, 0.04)";
 const roundStackTwo = "rgba(255, 255, 255, 0.06)";
 const primary = {
-  main: "#bd8713ff",
-  light: "#c6ae0eff",
-  dark: "#7d5e10ff",
-  deep: "#ae8512ff",
-  contrastText: neutral[900],
-  semiLight: "#E4FFF3",
-  overLay: "#000000",
-  customType2: "#3BB77E",
-  lite: "rgba(3, 157, 85, 0.1)",
-  customType3: "#29CE00",
-  icon: "#ffffff",
+	main: "#FF6600",
+	deep: "#CC5200",
+	light: "#FFE5D1",
+	dark: "#993D00",
+	semiLight: "#FFF1E5",
+	contrastText: "#FFFFFF",
+	customType1: "#FF7A26",
+	customType2: "#FF8C33",
+	customType3: "#FF7800",
+	overLay: "#000000",
+	lite: "rgba(255, 102, 0, 0.1)",
+	icon: "#FF6600",
 };
 
 const secondary = {
