@@ -32,19 +32,20 @@ const background = {
 const divider = "#E6E8F0";
 
 const primary = {
-	main: "#039D55",
-	deep: "#026034",
-	light: "#EBFDF2",
-	dark: "#1c6641",
-	semiLight: "#E4FFF3",
+	main: "#FF6600",
+	deep: "#CC5200",
+	light: "#FFE6CC",
+	dark: "#B34700",
+	semiLight: "#FFD9B3",
 	contrastText: "#FFFFFF",
-	customType1: "#0DCB72",
-	customType2: "#3BB77E",
-	customType3: "#29CE00",
+	customType1: "#FF8533",
+	customType2: "#FF944D",
+	customType3: "#FFB266",
 	overLay: "#000000",
-	lite: "rgba(3, 157, 85, 0.1)",
-	icon: "#039D55",
+	lite: "rgba(255, 102, 0, 0.1)",
+	icon: "#FF6600",
 };
+
 const moduleTheme = {
 	pharmacy: "#039D55",
 	ecommerce: "#039D55",
